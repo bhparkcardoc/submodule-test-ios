@@ -1,0 +1,3 @@
+[submodule "Frameworks/Chatmodule"]
+	path = Frameworks/Chatmodule
+	url = https://github.com/bhparkcardoc/submodule-test-chatmodule
